@@ -1,6 +1,3 @@
-Currently not available.
-Please wait for a while.
-
 # chrome_get_html
 AppleScript: Get html source of a URL with Google Chrome
 
